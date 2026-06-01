@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "gforce-elite-forge-main"
+  ],
+  "scripts": {
+    "dev": "cd gforce-elite-forge-main && npx vite dev",
+    "build": "cd gforce-elite-forge-main && npx vite build",
+    "preview": "cd gforce-elite-forge-main && npx vite preview"
+  }
+}
